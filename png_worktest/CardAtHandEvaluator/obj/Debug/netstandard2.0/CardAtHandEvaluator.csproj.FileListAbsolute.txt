@@ -1,0 +1,9 @@
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\bin\Debug\netstandard2.0\CardAtHandEvaluator.deps.json
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\bin\Debug\netstandard2.0\CardAtHandEvaluator.dll
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\bin\Debug\netstandard2.0\CardAtHandEvaluator.pdb
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\obj\Debug\netstandard2.0\CardAtHandEvaluator.csprojAssemblyReference.cache
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\obj\Debug\netstandard2.0\CardAtHandEvaluator.AssemblyInfoInputs.cache
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\obj\Debug\netstandard2.0\CardAtHandEvaluator.AssemblyInfo.cs
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\obj\Debug\netstandard2.0\CardAtHandEvaluator.csproj.CoreCompileInputs.cache
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\obj\Debug\netstandard2.0\CardAtHandEvaluator.dll
+C:\Projects\png_worktest\png_worktest\CardAtHandEvaluator\obj\Debug\netstandard2.0\CardAtHandEvaluator.pdb
